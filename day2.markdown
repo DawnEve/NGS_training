@@ -2,7 +2,7 @@
 
 ```
 $ ssh user120@123.57.214.96
-961251
+
 两周内有效。
 ```
 
@@ -130,4 +130,5 @@ http://yanshouyu.blog.163.com/blog/static/214283182201302835744453/
 
 http://cbsu.tc.cornell.edu/lab/doc/RNASeq_workshop_2013_part2.pdf
 
---
+---
+961251
