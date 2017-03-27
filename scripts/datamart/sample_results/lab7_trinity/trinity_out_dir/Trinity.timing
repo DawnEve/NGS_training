@@ -1,0 +1,22 @@
+Statistics:
+===========
+Trinity Version:      trinityrnaseq_r20140717
+Compiler:             GCC
+Trinity Parameters:   --left reads.ALL.left.fq --right reads.ALL.right.fq --seqType fq --JM 10G --CPU 6 --SS_lib_type RF
+Paired mode
+ Input data
+  Left.fasta    4 MByte
+  Right.fasta   4 MByte
+  Number of unique KMERs: 1831393
+  Number of reads:        0 Output data
+  Trinity.fasta 0 MByte
+
+Runtime
+=======
+Start:       Thu May 14 01:54:22 UTC 2015
+End:         Thu May 14 01:55:52 UTC 2015
+Trinity   90 seconds
+  Inchworm   15 seconds
+  Chrysalis  10 seconds
+  Butterfly  65 seconds
+  Rest       0 seconds

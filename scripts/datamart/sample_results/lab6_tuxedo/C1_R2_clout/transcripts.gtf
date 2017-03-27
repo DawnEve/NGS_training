@@ -1,0 +1,10 @@
+III	Cufflinks	transcript	268193	269287	1000	-	.	gene_id "CUFF.1"; transcript_id "CUFF.1.1"; FPKM "67807.6545829951"; frac "1.000000"; conf_lo "42178.770153"; conf_hi "93436.539013"; cov "3.905285";
+III	Cufflinks	exon	268193	269287	1000	-	.	gene_id "CUFF.1"; transcript_id "CUFF.1.1"; exon_number "1"; FPKM "67807.6545829951"; frac "1.000000"; conf_lo "42178.770153"; conf_hi "93436.539013"; cov "3.905285";
+III	Cufflinks	transcript	1261611	1262554	1000	-	.	gene_id "CUFF.2"; transcript_id "CUFF.2.1"; FPKM "29178.5311672448"; frac "1.000000"; conf_lo "10338.320974"; conf_hi "48018.741361"; cov "1.845250";
+III	Cufflinks	exon	1261611	1262554	1000	-	.	gene_id "CUFF.2"; transcript_id "CUFF.2.1"; exon_number "1"; FPKM "29178.5311672448"; frac "1.000000"; conf_lo "10338.320974"; conf_hi "48018.741361"; cov "1.845250";
+III	Cufflinks	transcript	2084948	2085706	1000	-	.	gene_id "CUFF.4"; transcript_id "CUFF.4.1"; FPKM "70122.7491685684"; frac "1.000000"; conf_lo "37044.726052"; conf_hi "103200.772285"; cov "4.311380";
+III	Cufflinks	exon	2084948	2085706	1000	-	.	gene_id "CUFF.4"; transcript_id "CUFF.4.1"; exon_number "1"; FPKM "70122.7491685684"; frac "1.000000"; conf_lo "37044.726052"; conf_hi "103200.772285"; cov "4.311380";
+III	Cufflinks	transcript	2057060	2059077	1000	+	.	gene_id "CUFF.3"; transcript_id "CUFF.3.1"; FPKM "59373.4158731163"; frac "1.000000"; conf_lo "42469.105940"; conf_hi "76277.725806"; cov "3.754775";
+III	Cufflinks	exon	2057060	2059077	1000	+	.	gene_id "CUFF.3"; transcript_id "CUFF.3.1"; exon_number "1"; FPKM "59373.4158731163"; frac "1.000000"; conf_lo "42469.105940"; conf_hi "76277.725806"; cov "3.754775";
+III	Cufflinks	transcript	2193744	2194738	1000	-	.	gene_id "CUFF.5"; transcript_id "CUFF.5.1"; FPKM "27290.1385434339"; frac "1.000000"; conf_lo "9669.239691"; conf_hi "44911.037396"; cov "1.725828";
+III	Cufflinks	exon	2193744	2194738	1000	-	.	gene_id "CUFF.5"; transcript_id "CUFF.5.1"; exon_number "1"; FPKM "27290.1385434339"; frac "1.000000"; conf_lo "9669.239691"; conf_hi "44911.037396"; cov "1.725828";

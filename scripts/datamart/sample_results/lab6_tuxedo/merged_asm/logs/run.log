@@ -1,0 +1,9 @@
+/share/bin/cufflinks-2.2.1.Linux_x86_64/cuffmerge -g genes.gtf -s genome.fa -p 4 assemblies.txt
+gtf_to_sam -F ./C1_R1_clout/transcripts.gtf ./merged_asm/tmp/gtf2sam_file5RvQE7
+gtf_to_sam -F ./C1_R2_clout/transcripts.gtf ./merged_asm/tmp/gtf2sam_fileT5ehfV
+gtf_to_sam -F ./C2_R1_clout/transcripts.gtf ./merged_asm/tmp/gtf2sam_fileB627PI
+gtf_to_sam -F ./C2_R2_clout/transcripts.gtf ./merged_asm/tmp/gtf2sam_file5ttorw
+sort -k 3,3 -k 4,4n --temporary-directory=./merged_asm//tmp/ ./merged_asm/tmp/gtf2sam_file5RvQE7 ./merged_asm/tmp/gtf2sam_fileT5ehfV ./merged_asm/tmp/gtf2sam_fileB627PI ./merged_asm/tmp/gtf2sam_file5ttorw > ./merged_asm/tmp/mergeSam_fileLb622j
+cufflinks -o ./merged_asm/ -F 0.05 -g genes.gtf -q --overhang-tolerance 200 --library-type=transfrags -A 0.0 --min-frags-per-transfrag 0 --no-5-extend -p 4 ./merged_asm/tmp/mergeSam_fileLb622j
+cuffcompare -o tmp_meta_asm -C -G  -r genes.gtf  -s genome.fa ./merged_asm//transcripts.gtf
+cuffcompare -o tmp_meta_asm -C -G  -r genes.gtf  -s genome.fa ./merged_asm//merged.gtf

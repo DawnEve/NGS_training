@@ -1,0 +1,4 @@
+III	Cufflinks	transcript	268182	269484	1000	-	.	gene_id "CUFF.1"; transcript_id "CUFF.1.1"; FPKM "47340.7813120256"; frac "1.000000"; conf_lo "27154.604335"; conf_hi "67526.958289"; cov "2.357605";
+III	Cufflinks	exon	268182	269484	1000	-	.	gene_id "CUFF.1"; transcript_id "CUFF.1.1"; exon_number "1"; FPKM "47340.7813120256"; frac "1.000000"; conf_lo "27154.604335"; conf_hi "67526.958289"; cov "2.357605";
+III	Cufflinks	transcript	1724378	1725718	1000	+	.	gene_id "CUFF.2"; transcript_id "CUFF.2.1"; FPKM "29116.4645061850"; frac "1.000000"; conf_lo "13553.059578"; conf_hi "44679.869434"; cov "1.619009";
+III	Cufflinks	exon	1724378	1725718	1000	+	.	gene_id "CUFF.2"; transcript_id "CUFF.2.1"; exon_number "1"; FPKM "29116.4645061850"; frac "1.000000"; conf_lo "13553.059578"; conf_hi "44679.869434"; cov "1.619009";

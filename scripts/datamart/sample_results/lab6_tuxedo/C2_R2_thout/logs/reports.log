@@ -1,0 +1,11 @@
+tophat_reports v2.0.14 (4318)
+---------------------------------------
+[samopen] SAM header is present: 1 sequences.
+	Loading III...done
+	Loading ...done
+Loaded 1743 GFF junctions from C2_R2_thout/tmp/genes.juncs.
+Loaded 1743 junctions
+Printing junction BED track...done
+Printing insertions...done
+Printing deletions...done
+Found 7 junctions from happy spliced reads

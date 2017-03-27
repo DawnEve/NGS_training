@@ -1,0 +1,8 @@
+mv C1_R1_1.fq_ C1_R1_1.fq
+mv C1_R1_2.fq_ C1_R1_2.fq
+mv C1_R2_1.fq_ C1_R2_1.fq
+mv C1_R2_2.fq_ C1_R2_2.fq
+mv C2_R1_1.fq_ C2_R1_1.fq
+mv C2_R1_2.fq_ C2_R1_2.fq
+mv C2_R2_1.fq_ C2_R2_1.fq
+mv C2_R2_2.fq_ C2_R2_2.fq

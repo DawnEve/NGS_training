@@ -1,0 +1,5 @@
+param	value
+cmd_line	cuffdiff -o diff_out -b genome.fa -p 4 -L C1,C2 -u merged_asm/merged.gtf ./C1_R1_thout/accepted_hits.bam,./C1_R2_thout/accepted_hits.bam ./C2_R1_thout/accepted_hits.bam,./C2_R2_thout/accepted_hits.bam 
+version	2.2.1
+SVN_revision	4237
+boost_version	104700

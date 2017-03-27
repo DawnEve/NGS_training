@@ -1,0 +1,8 @@
+Sp_hs	hs_rep1	10k_READS_sample/Sp.hs.10k.left.fq	10k_READS_sample/Sp.hs.10k.right.fq
+Sp_log	log_rep1	10k_READS_sample/Sp.log.10k.left.fq	10k_READS_sample/Sp.log.10k.right.fq
+Sp_ds	ds_rep1	10k_READS_sample/Sp.ds.10k.left.fq	10k_READS_sample/Sp.ds.10k.right.fq
+Sp_plat	plat_rep1	10k_READS_sample/Sp.plat.10k.left.fq	10k_READS_sample/Sp.plat.10k.right.fq
+--CPU=1
+--max_memory=2G
+--seqType=fq
+--SS_lib_type=RF

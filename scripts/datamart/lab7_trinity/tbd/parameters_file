@@ -1,0 +1,5 @@
+## Trinity.pl configuration settings:
+--CPU=1
+--JM=2G
+--seqType=fq
+--SS_lib_type=RF

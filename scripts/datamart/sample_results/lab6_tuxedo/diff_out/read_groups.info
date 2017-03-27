@@ -1,0 +1,5 @@
+file	condition	replicate_num	total_mass	norm_mass	internal_scale	external_scale
+./C1_R1_thout/accepted_hits.bam	C1	0	388.678	399.719	1	1
+./C1_R2_thout/accepted_hits.bam	C1	1	435.251	399.719	1.05253	1
+./C2_R1_thout/accepted_hits.bam	C2	0	361.228	399.719	0.840896	1
+./C2_R2_thout/accepted_hits.bam	C2	1	397.239	399.719	1.01627	1
