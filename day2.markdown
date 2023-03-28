@@ -59,7 +59,7 @@ QQ群: 554135121
 ### 测序深度的选择
   - 深度越高，则发现的基因越多。
   - 但是多高到一定程度，就不会发现新基因了。
-  - fasta格式.
+  - fastq格式.
   - quality score: Q=-log10(P). Q+33的ASCII码描述碱基，得到fastq格式。
 
 ### fastqc数据质控
@@ -75,15 +75,17 @@ chmod o+w file.txt  #other组增加write权限
 ## 文本处理
 grep
 split
-swk
+awk
 
 ## 文件查找
 find
 
 ## sh script
+```
 #! /bin/bash
 date
 ls -la
+```
 
 ## 文本编辑
 nano
@@ -91,6 +93,7 @@ emacs
 vi
 
 ## 进程管理
+```
 su suer
 passwd
 top
@@ -99,24 +102,28 @@ history
 ps
 ps -ef 显示所有账号的进程详细列表
 kill -9 pid
+```
 
 ## 几个特殊符号
+```
 < 导入符号 到文件
 | 管道符号，输出作为下一步的输入
 > 重定向
 & 后台处理
+```
 
 ## 软件安装
-ubuntu 使用apt-get
-red hat使用 yum
+- ubuntu 使用apt-get
+- red hat使用 yum
 
 ## 加压缩
+```
 tar -xzvf xx.tar.gz
 ./configure
 make
 (sudo) make install
 make clean
-
+```
 
 ## 注意
 1.注意大小写
