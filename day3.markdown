@@ -1,6 +1,6 @@
 # 20170326 day3
 
-## 1.数据分析哟啊解决的问题？
+## 1.数据分析要解决的问题？
 1. mapping
 2. 转录组重建
 3. 表达水平定量
@@ -223,7 +223,7 @@ cp eg2.ref.fa eg2.sorted.bam eg2.sorted.bam.bai eg2
   - 两个补充
     * 分清楚错误和变异
     * 灵敏度和复杂度最优平衡。
-  - 去掉low-covverage分支。
+  - 去掉low-coverage分支。
   - k-mer length->不同结果。
     * AbYss -> variable k-mer strategy.
 
